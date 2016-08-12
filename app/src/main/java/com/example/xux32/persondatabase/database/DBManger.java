@@ -34,7 +34,7 @@ public class DBManger {
             db.setTransactionSuccessful();
         } finally {
             db.endTransaction();
-
+              //////
         }
     }
 
